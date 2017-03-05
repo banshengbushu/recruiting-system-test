@@ -1,0 +1,24 @@
+{
+  "name": "subtract-number",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "should": "^11.2.0"
+  },
+  "scripts": {
+    "test": "mocha ./spec/*spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/banshengbushu/recruiting-system-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/banshengbushu/recruiting-system-test/issues"
+  },
+  "homepage": "https://github.com/banshengbushu/recruiting-system-test#readme"
+}
